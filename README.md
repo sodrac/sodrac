@@ -1,5 +1,5 @@
-👋 I am a Senior Java engineer/contractor/freelancer with 𝟭𝟭+ 𝘆𝗲𝗮𝗿𝘀 𝗼𝗳 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲.
-Using my passion and coding knowledge, I help companies worldwide architect and implement scalable leading-edge software solutions.
+👋 I am a Senior Java Full Stack engineer / contractor / freelancer with 𝟭𝟭+ 𝘆𝗲𝗮𝗿𝘀 𝗼𝗳 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲.
+Using my passion and coding knowledge, I help companies worldwide architect and develop scalable, next-gen software solutions.
 
 ✅ 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐨𝐫 to 𝐒𝐩𝐫𝐢𝐧𝐠, one of the most impactful frameworks in the Java ecosystem.
 
