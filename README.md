@@ -1,6 +1,6 @@
-👋 I'm a Senior Full Stack Engineer with 𝟏𝟐+ 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 𝐢𝐧 𝐉𝐚𝐯𝐚 & 𝐀𝐧𝐠𝐮𝐥𝐚𝐫, experienced in Team Lead roles.
+👋 I'm a Senior Lead Full Stack Engineer with 𝟏𝟑+ 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 𝐢𝐧 𝐉𝐚𝐯𝐚 & 𝐀𝐧𝐠𝐮𝐥𝐚𝐫, always looking for the next challenge! 
 
-💻 Helping businesses worldwide build scalable software solutions.
+💻 Empowering businesses through code.
 
 🍃 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐨𝐫 to 𝐒𝐩𝐫𝐢𝐧𝐠, one of the most impactful frameworks in the Java ecosystem.
 
@@ -13,9 +13,9 @@ About my skills:
 ● Spring Framework, Spring Boot
 ● Spring Data, Spring Security, JWT
 ● Hibernate, JPA, iBatis
-● SOAP, REST
-● Oracle, PostgreSQL, MySQL
-● JUnit, Mockito
+● SOAP, REST, Web Services
+● Oracle, PostgreSQL, MySQL, MS SQL Server
+● JUnit, Mockito, XML
 ● Tomcat, Weblogic, Apache
 
 ✅ Frontend: 
@@ -26,13 +26,14 @@ About my skills:
 ● .NET/C#
 
 ✅ Software Architecture:
-● Layered Architecture
-● Design Patterns, SOLID Principles, Clean Code, GRASP, KISS, YAGNI
+● Layered Architecture, Design Patterns, SOLID Principles
+● Software Development Life Cycle (SDLC)
+● Clean Code, GRASP, KISS, YAGNI
 
 ✅ Other:
-● Maven, Git, Bitbucket, Jira, Bamboo, Confluence, jFrog
-● SonarQube, Ansible, Terraform, OpenAPI, Redis, ELK, AWS, Docker
-● SCRUM Agile Methodologies, Team Lead, Solution Architect, CTO, Engineering Manager
+● Maven, Git, Bitbucket, Jira, Bamboo, Confluence, jFrog, Linux
+● SonarQube, Ansible, Terraform, OpenAPI, Redis, ELK, AWS, Docker, Cloud Computing
+● Scrum, Agile Methodologies, Team Lead, Solution Architect, CTO, Engineering Manager
 
 🌍 Only interested in remote work.
 
